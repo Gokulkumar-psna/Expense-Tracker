@@ -1,0 +1,6 @@
+{
+  "name": "PennyWise - Expense & Budget Intelligence",
+  "description": "Executive personal finance, real-time cashflow trajectory, and intelligent budget management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
